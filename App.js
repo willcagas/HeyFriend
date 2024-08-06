@@ -19,7 +19,7 @@ import App2 from './App2.js';
 import Loader2 from './Loader2.js';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyA3YW5C1YYhlSPIfkogAKPfWOOqFveJpxg",
+  apiKey: "",
   authDomain: "heyfriend-1ed16.firebaseapp.com",
   databaseURL: "https://heyfriend-1ed16.firebaseio.com",
   projectId: "heyfriend-1ed16",
